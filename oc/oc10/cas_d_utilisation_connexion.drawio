@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T16:23:43.271Z" agent="5.0 (Windows)" etag="5_HBzntVmkvc8ZRGPYoD" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T16:33:50.893Z" agent="5.0 (Windows)" etag="7abVv_IBNbq2h4GxJ8YR" version="20.8.23" type="github">
   <diagram name="Page-1" id="QDjx12gvEAr_1nLiNZum">
     <mxGraphModel dx="1366" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
         <mxCell id="DDmF5A7Nu_7fD2NKJbPf-44" value="Entrer adresse mail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="-5" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="DDmF5A7Nu_7fD2NKJbPf-45" value="Entrer mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDmF5A7Nu_7fD2NKJbPf-45" value="&lt;div&gt;Entrer nouveau &lt;br&gt;&lt;/div&gt;&lt;div&gt;mot de passe&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="61" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DDmF5A7Nu_7fD2NKJbPf-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=default;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="DDmF5A7Nu_7fD2NKJbPf-53" target="DDmF5A7Nu_7fD2NKJbPf-34">
