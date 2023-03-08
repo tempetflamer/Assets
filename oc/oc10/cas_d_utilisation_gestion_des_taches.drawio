@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T15:03:07.997Z" agent="5.0 (Windows)" etag="tRi7FpV8pZTdy9YaJ1re" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T15:11:42.886Z" agent="5.0 (Windows)" etag="_vZ_TotOY01xnqRGrkGY" version="20.8.23" type="github">
   <diagram name="Page-1" id="fAINEygDaWVcv_N5_IjY">
-    <mxGraphModel dx="2049" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,9 @@
         <mxCell id="KYYR0FkDAw76e0KfDm-P-52" value="&lt;div&gt;Retirer un élève&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="988" width="120" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="KYYR0FkDAw76e0KfDm-P-53" target="KYYR0FkDAw76e0KfDm-P-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KYYR0FkDAw76e0KfDm-P-53" value="Choisis un élève" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="912" width="120" height="52" as="geometry" />
         </mxCell>
@@ -215,6 +218,36 @@
             <mxPoint x="1060" y="1120" as="sourcePoint" />
             <mxPoint x="970" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-76" value="Attribution des droits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="912" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-78" value="Modification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="912" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="KYYR0FkDAw76e0KfDm-P-80" target="KYYR0FkDAw76e0KfDm-P-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-80" value="Lecture" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="812" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="KYYR0FkDAw76e0KfDm-P-81" target="KYYR0FkDAw76e0KfDm-P-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-81" value="Suppression" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1010" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-85" value="" style="endArrow=none;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KYYR0FkDAw76e0KfDm-P-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="990" as="sourcePoint" />
+            <mxPoint x="1560" y="938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-86" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#8000ff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="750" width="1020" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="KYYR0FkDAw76e0KfDm-P-87" value="Bénévole uniquement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#8000ff;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="722" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
